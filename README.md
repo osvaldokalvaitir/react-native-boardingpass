@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="/.github/assets/logo.png"
-    width="400px"
+    width="200px"
     alt="Logo" />
 </h1>
 
@@ -30,7 +30,9 @@
 
 ## :iphone: Demo
 
-![Demo](/.github/assets/demo.png)
+<p align="center">
+  ![Demo](/.github/assets/demo.png)
+</p>
 
 ## :wrench: Install and run
 
