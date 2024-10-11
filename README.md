@@ -31,7 +31,7 @@
 ## :iphone: Demo
 
 <p align="center">
-  ![Demo](/.github/assets/demo.png)
+    <img alt="Demo" src="/.github/assets/demo.png">
 </p>
 
 ## :wrench: Install and run
