@@ -48,7 +48,7 @@ cd react-native-boardingpass
 # Install deps with npm
 npm install
 
-# Launch the app on ios with expo
+# Launch the app on android or ios with expo
 npm run start
 
 # The Metro Bundler will open in the browser tab.
